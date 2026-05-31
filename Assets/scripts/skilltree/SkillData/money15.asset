@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7d27df6f85c5c4995b3201b172a799, type: 3}
+  m_Name: money15
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillID: money_15
+  skillName: Large Fund
+  description: Gives you extra 15$ at start
+  icon: {fileID: 1495164107454364673, guid: 5fbea811ccea15e4eaabf9b09e4a45db, type: 3}
+  ticketCost: 1
+  requiredParentSkills:
+  - {fileID: 11400000, guid: e494bdbd7080ca241906b3f5932c9294, type: 2}
+  dicePrefabToGive: {fileID: 0}
+  startingMoneyBonus: 15
+  interestCapBonus: 0
+  interestThreshold: 0
+  interestRewardAmount: 0

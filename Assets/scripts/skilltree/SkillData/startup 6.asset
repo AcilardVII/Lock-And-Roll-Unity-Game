@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7d27df6f85c5c4995b3201b172a799, type: 3}
+  m_Name: startup 6
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillID: startup_6
+  skillName: 6 Startup
+  description: Gives you extra 6 sided dice at the start
+  icon: {fileID: -8941994064953772371, guid: 0a3d881ef99a175449a3406d14541148, type: 3}
+  ticketCost: 1
+  requiredParentSkills:
+  - {fileID: 11400000, guid: fe3e2a2f385cea64189bbf1341dbf3c8, type: 2}
+  dicePrefabToGive: {fileID: 5326130520815379338, guid: c2b83868572444a4aaf8483d042245f6, type: 3}
+  startingMoneyBonus: 0
+  interestCapBonus: 0
+  interestThreshold: 0
+  interestRewardAmount: 0

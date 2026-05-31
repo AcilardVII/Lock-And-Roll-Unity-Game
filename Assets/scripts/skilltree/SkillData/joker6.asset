@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7d27df6f85c5c4995b3201b172a799, type: 3}
+  m_Name: joker6
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillID: joker6
+  skillName: Premium Start
+  description: Gives 1 random Legendary joker at the start.
+  icon: {fileID: 4992417914733793376, guid: 123a4f708d7f879478cab95fc169939f, type: 3}
+  ticketCost: 1
+  requiredParentSkills:
+  - {fileID: 11400000, guid: 3d6a3b0e920d2eb4c92dec8b85491015, type: 2}
+  - {fileID: 11400000, guid: e473a09710dba4844aceace4fa80da95, type: 2}
+  - {fileID: 11400000, guid: 1957dca7557441940b4a8158ae3f5496, type: 2}
+  dicePrefabToGive: {fileID: 0}
+  startingMoneyBonus: 0
+  interestCapBonus: 0
+  interestThreshold: 0
+  interestRewardAmount: 0
+  givesStartingJoker: 1
+  jokerRarityToGive: 3
+  startingJokerCount: 1

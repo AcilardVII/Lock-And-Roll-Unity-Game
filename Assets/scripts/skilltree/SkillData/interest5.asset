@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7d27df6f85c5c4995b3201b172a799, type: 3}
+  m_Name: interest5
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillID: interest_5
+  skillName: Mega Interest
+  description: Gives 4$ interest for every 10$ (Max:5$)
+  icon: {fileID: -5894265772623557973, guid: b5390aa7314a11645a400acfd9a73438, type: 3}
+  ticketCost: 1
+  requiredParentSkills:
+  - {fileID: 11400000, guid: eb11ec5b8363e9947b02239c2f4e0d13, type: 2}
+  - {fileID: 11400000, guid: 1957dca7557441940b4a8158ae3f5496, type: 2}
+  dicePrefabToGive: {fileID: 0}
+  startingMoneyBonus: 5
+  interestCapBonus: 5
+  interestThreshold: 10
+  interestRewardAmount: 4

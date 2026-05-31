@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7d27df6f85c5c4995b3201b172a799, type: 3}
+  m_Name: startup 4
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillID: startup_4
+  skillName: 4 Startup
+  description: Gives you extra 4 sided dice at the start
+  icon: {fileID: -1672103371576007630, guid: 7b50e624581f6ed4a87d62ef9465d42b, type: 3}
+  category: 4
+  branchType: 0
+  ticketCost: 1
+  requiredParentSkill: {fileID: 0}
+  dicePrefabToGive: {fileID: 2279204157693064079, guid: 1a3c23c467569804599e992aba2d37a8, type: 3}

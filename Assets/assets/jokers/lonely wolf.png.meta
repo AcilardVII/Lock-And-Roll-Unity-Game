@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 417f3c4a88346344ca3cdfc6d66b18eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8191063326609827437
+    second: lonely wolf_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 450
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lonely wolf_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 71, y: -272}
+        - {x: 71, y: -258}
+        - {x: 101, y: -258}
+        - {x: 119, y: -240}
+        - {x: 119, y: -226}
+        - {x: 165, y: -226}
+        - {x: 215, y: -176}
+        - {x: 231, y: -165}
+        - {x: 251, y: -130}
+        - {x: 264, y: -82}
+        - {x: 280, y: -63}
+        - {x: 280, y: 49}
+        - {x: 262, y: 67}
+        - {x: 248, y: 67}
+        - {x: 250, y: 114}
+        - {x: 230, y: 133}
+        - {x: 215, y: 131}
+        - {x: 215, y: 193}
+        - {x: 213, y: 195}
+        - {x: 181, y: 211}
+        - {x: 168, y: 226}
+        - {x: 120, y: 245}
+        - {x: 106, y: 246}
+        - {x: 102, y: 261}
+        - {x: 69, y: 275}
+        - {x: 53, y: 291}
+        - {x: -59, y: 291}
+        - {x: -77, y: 273}
+        - {x: -77, y: 259}
+        - {x: -123, y: 259}
+        - {x: -141, y: 241}
+        - {x: -141, y: 227}
+        - {x: -187, y: 227}
+        - {x: -221, y: 193}
+        - {x: -236, y: 180}
+        - {x: -255, y: 132}
+        - {x: -256, y: 118}
+        - {x: -271, y: 115}
+        - {x: -289, y: 55}
+        - {x: -301, y: 51}
+        - {x: -301, y: -63}
+        - {x: -283, y: -81}
+        - {x: -269, y: -81}
+        - {x: -269, y: -112}
+        - {x: -251, y: -130}
+        - {x: -237, y: -130}
+        - {x: -237, y: -176}
+        - {x: -235, y: -178}
+        - {x: -224, y: -194}
+        - {x: -188, y: -213}
+        - {x: -176, y: -226}
+        - {x: -140, y: -245}
+        - {x: -126, y: -257}
+        - {x: -78, y: -276}
+        - {x: -63, y: -276}
+        - {x: -61, y: -288}
+        - {x: -59, y: -290}
+        - {x: 53, y: -290}
+      physicsShape: []
+      tessellationDetail: 0.433
+      bones: []
+      spriteID: d66ee4b82b08ca170800000000000000
+      internalID: 8191063326609827437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff54438ca5bef5b4184b8ce7f55a530b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lonely wolf_0: 8191063326609827437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

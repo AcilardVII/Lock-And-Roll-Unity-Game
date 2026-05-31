@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7d27df6f85c5c4995b3201b172a799, type: 3}
+  m_Name: joker5
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillID: joker5
+  skillName: Rare Start
+  description: Gives 1 random rare joker at the start.
+  icon: {fileID: -4932977534810715858, guid: f6ab593c894d9c0409192fc57eb56478, type: 3}
+  ticketCost: 1
+  requiredParentSkills:
+  - {fileID: 11400000, guid: 3a8474f15e705874e951f2e1589384ba, type: 2}
+  dicePrefabToGive: {fileID: 0}
+  startingMoneyBonus: 0
+  interestCapBonus: 0
+  interestThreshold: 0
+  interestRewardAmount: 0
+  givesStartingJoker: 1
+  jokerRarityToGive: 2
+  startingJokerCount: 1

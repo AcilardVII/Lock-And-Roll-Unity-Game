@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a7d27df6f85c5c4995b3201b172a799, type: 3}
+  m_Name: joker4
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillID: joker4
+  skillName: Starter Pack
+  description: Gives 2 random uncommon joker at the start.
+  icon: {fileID: 8745361094221438340, guid: d75df449e1b7e594b9e857b3399c976d, type: 3}
+  ticketCost: 1
+  requiredParentSkills:
+  - {fileID: 11400000, guid: c6fc7d006f3dd2b4b9b93da6bfc2b7b1, type: 2}
+  dicePrefabToGive: {fileID: 0}
+  startingMoneyBonus: 0
+  interestCapBonus: 0
+  interestThreshold: 0
+  interestRewardAmount: 0
+  givesStartingJoker: 1
+  jokerRarityToGive: 1
+  startingJokerCount: 2
